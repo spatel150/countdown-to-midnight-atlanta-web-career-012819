@@ -1,5 +1,6 @@
 #write your code here
 
 def countdown(number)
-  while 
+  while number >= 12
+  
 end
